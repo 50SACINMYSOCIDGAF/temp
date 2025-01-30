@@ -860,4 +860,4 @@ The challenge ahead is substantial but not insurmountable. By understanding hist
 
 [^maybe]: The use of "Created" here is based on my prediction that AGI would certainly cause these events.
 
-[^totalcost]: The total cost of running DeepSeek R1 locally on Hardware: Minimum 9x NVIDIA H100 GPUs at ~$36,300 each = $326,700 upfront and on Cloud alternatives: 9x H100 instance ranges from $25.20-80.91 per hour ($220,752-$708,574 annually) depending on provider
+[^localcost]: The total cost of running DeepSeek R1 locally on Hardware: Minimum 9x NVIDIA H100 GPUs at ~$36,300 each = $326,700 upfront and on Cloud alternatives: 9x H100 instance ranges from $25.20-80.91 per hour ($220,752-$708,574 annually) depending on provider
